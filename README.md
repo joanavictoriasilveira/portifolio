@@ -1,3 +1,4 @@
+'''
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio!
 
 Meu primeiro portifólio desenvolvido com os cursos de HTML e CSS da Alura. Me ajudaram a entender um pouco mais sobre esses assuntos. 
@@ -17,3 +18,4 @@ Meu primeiro portifólio desenvolvido com os cursos de HTML e CSS da Alura. Me a
 ### Joana Victória 
 
 ### Linkedin: https://www.linkedin.com/in/joana-victoria-silveira-candido-231028293/
+'''
